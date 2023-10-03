@@ -1,7 +1,7 @@
 package Exception;
 
-public class DemoStack {
-	public 
+//public class DemoStack {
+//	public 
 	
 	
 	

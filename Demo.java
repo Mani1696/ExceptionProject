@@ -55,7 +55,7 @@ public class Demo {
 //			System.out.println(a);
 //		}
 		
-		String a="Raj";
-		System.out.println(a.indexOf("x"));
+		String abb="Raj";
+		System.out.println(abb.indexOf("x"));
 	}
 }
