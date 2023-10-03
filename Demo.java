@@ -55,7 +55,7 @@ public class Demo {
 //			System.out.println(a);
 //		}
 		
-		String abb="Raj";
+		String abb="Sekar";
 		System.out.println(abb.indexOf("x"));
 	}
 }
