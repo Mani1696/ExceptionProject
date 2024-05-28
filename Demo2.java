@@ -18,13 +18,14 @@ public class Demo2 {
 	 
 	 String[] word= {"sekar","bala","Agasthiya","Mani"};
 	 try {
+		 
 	 System.out.println(Integer.parseInt(word[2]));
 	 }
-	 catch(StringIndexOutOfBoundsException a) {
+	 catch(StringIndexOutOfBoundsException  a) {
 		 System.out.println(a);
 	 }
 	 catch(IndexOutOfBoundsException b) {
-		 System.out.println(b) ;
+		 System.out.println(b);
 	 }
 	 catch(Exception c) {
 		 System.out.println(c);
