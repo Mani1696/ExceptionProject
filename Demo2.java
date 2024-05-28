@@ -24,7 +24,7 @@ public class Demo2 {
 		 System.out.println(a);
 	 }
 	 catch(IndexOutOfBoundsException b) {
-		 System.out.println(b);
+		 System.out.println(b) ;
 	 }
 	 catch(Exception c) {
 		 System.out.println(c);
