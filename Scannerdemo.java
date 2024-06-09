@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Scannerdemo {
 	public static void main (String[]args) {
 		Scanner ab=new Scanner (System.in);
-		System.out.println("enter the age");
+		System.out.println("enter the ages");
 		try {
 		int age=ab.nextInt();
 		System.out.println("your age is "+age);
